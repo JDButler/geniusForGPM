@@ -1,4 +1,4 @@
-# Genius for Google Play Music Chrome Extension
+# Genius for Google Play Music
 
 A chrome extension that adds Genius lyrics support for Google Play Music. Clicking the extension when in
 a tab playing a song Google Play Music will open the corresponding Genius page for the lyrics (if one exists).
