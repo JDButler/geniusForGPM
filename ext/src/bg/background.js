@@ -4,7 +4,6 @@
 
 base_url = 'http://api.genius.com';
 TOKEN = 'ynNur_kehS736JRQKOuR-39e6Cz-PCDMN5bBDbl8lV-JGY7sBOVZa_JR1vObatLO';
-KEY = 'WC4gW1Waqf4s81EuYE76TSpCsMXbhe0TspQScXgL99Oho8VL8GsW8IbLoMKSvg3DvE1qoGoGU0dA7d-Gj-N3Ng';
 
 // Update the declarative rules on install or upgrade.
 chrome.runtime.onInstalled.addListener(function() {
