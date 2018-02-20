@@ -10,30 +10,6 @@ a tab playing a song Google Play Music will open the corresponding Genius page f
 extensions)
 3) Select 'Load unpacked extension' and navigate to the 'ext' folder of the zip you just extracted in step 1)
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Extensionizr](https://extensionizr.com) - Boiler plate template for chrome extensions
